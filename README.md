@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Interstellar Proxy</h1>
+    <h1>Interstellar Proxy2 use if Bl0ck3d</h1>
     </div>
 One of the most popular web proxies, used by over 5.7 million people in 2023.
 
